@@ -1,0 +1,5 @@
+﻿Team Announcer Bot Changelog (Windows)
+
+2019-05-28
+* Added preference for 'gaminggauntlets' team to the bot. Default order is now gaminggauntlets -> twitchthrowdown -> other
+* Added ability to override preferred team. Put the URL of your preferred team in the box in the settings
