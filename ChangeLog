@@ -1,5 +1,17 @@
 ﻿Team Announcer Bot Changelog (Windows)
 
+2019-08-15
+* Self-Shout out can be disabled - Either use the button in the settings tab, or type '!tab selfshout' in the chat
+* Install Directory can be changed
+* Spelling Mistakes are Fixed!... I think...
+* New Browser - TAB now uses FireFox internally to do the whole twitch login thing. I chose FF over Chrome because I value privacy. And memory usage..
+* Memory Usage - Because I now have to start Firefox up in the background to ensure it doesn't fall down when the login window appears, You may (will) see more memory usage when the login window (is open / has been opened)
+
+A note on Windows 7 and 8.1 - This is the last version that will attempt to install on these versions of Windows.
+However, Windows 7 and 8.1 ARE NOT SUPPORTED. I make no attempts to test compatibility and will not offer support for these versions of Windows and future versions will not install on these versions of windows.
+
+
+
 2019-06-13
 * Bot now receives Live Notifications and auto resets.
 * Bot has a single new command. type '!tab reset' to reset the shoutouts
