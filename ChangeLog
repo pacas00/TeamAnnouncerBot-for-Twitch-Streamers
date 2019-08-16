@@ -1,6 +1,9 @@
 ﻿Team Announcer Bot Changelog (Windows)
 
 2019-08-15
+* Additional Handling in the new browser window. Should hopefully help Baron_Fortesque get past login.
+
+2019-08-15
 * Self-Shout out can be disabled - Either use the button in the settings tab, or type '!tab selfshout' in the chat
 * Install Directory can be changed
 * Spelling Mistakes are Fixed!... I think...
